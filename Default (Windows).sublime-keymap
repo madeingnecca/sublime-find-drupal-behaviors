@@ -1,0 +1,9 @@
+[
+	{
+		"keys": ["alt+r"], "command": "find_drupal_behaviors", "args": {}, "context":
+		[
+			{ "key": "selector", "operator": "equal", "operand": "source.js" }
+		]
+	}
+]
+
